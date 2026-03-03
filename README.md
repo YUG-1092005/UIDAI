@@ -2,7 +2,17 @@
 ## Aadhaar Lifecycle Analytics Dashboard  
 **Team InsightForge**
 
-📌 This project presents a consolidated analytical study of Aadhaar Enrolments, Demographic Updates, and Biometric Updates using official UIDAI aggregated datasets (2025).
+📌 Comprehensive analytical study of Aadhaar Enrolments, Demographic Updates, and Biometric Updates (2025) using official UIDAI datasets.
+
+---
+
+## 🎥 Project Resources
+
+🔗 **Video Solution**  
+https://drive.google.com/file/d/1-h1BqKhg2xz49DEqwXh-SRM2RjZUjfYZ/view?usp=drive_link  
+
+📄 **Detailed Project Report**  
+https://drive.google.com/file/d/1EWdAXWVshc0_uM-AZfYl3_zdYjbsCBOR/view?usp=drive_link  
 
 ---
 
